@@ -1,7 +1,7 @@
-export default function About() {
+export default function Contact() {
   return (
     <section>
-      <h2>Layout Example (About)</h2>
+      <h2>Layout Example (Contact)</h2>
       <p>
         This example adds a property <code>getLayout</code> to your page,
         allowing you to return a React component for the layout. This allows you
