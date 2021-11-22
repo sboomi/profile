@@ -1,0 +1,19 @@
+{
+  "navLinks": [
+    {
+      "id": "linkedin",
+      "userName": "shadiboomi",
+      "url": "https://www.linkedin.com/in/shadiboomi/"
+    },
+    {
+      "id": "github",
+      "userName": "sboomi",
+      "url": "https://github.com/sboomi"
+    },
+    {
+      "id": "kaggle",
+      "userName": "sboomi",
+      "url": "https://www.kaggle.com/sboomi"
+    }
+  ]
+}
